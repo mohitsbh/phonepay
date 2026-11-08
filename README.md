@@ -62,6 +62,9 @@ The project analyzes a synthetic/sample UPI transaction dataset containing:
 
 Important: This is a synthetic/sample dataset and does not contain actual PhonePe customer transactions or confidential customer information.
 
+Dataset url:
+https://drive.google.com/drive/folders/1PpImLAyTUkJJk2KCn2P6HRC8nQAXtqIf?usp=drive_link
+
 📈 Key Performance Indicators (KPIs)
 
 Metric| Result
